@@ -1,0 +1,15 @@
+{
+  "name": "notas",
+  "version": "1.0.0",
+  "description": "App para tomar notas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maycon",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.1.0"
+  }
+}
