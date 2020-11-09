@@ -2,7 +2,7 @@
 
 **Notas**
 
-Aplicación para armazenar notas en un archivo .json.
+Aplicación para almacenar notas en un archivo .json.
 + fs
 + yargs
 
